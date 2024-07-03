@@ -38,7 +38,7 @@ function VideoWithCaptions() {
 
   return (
     <div className="flex flex-col items-center gap-4">
-      <h2 className="text-3xl font-bold mt-2">Video Caption Adder</h2>
+      <h2 className="text-3xl font-bold my-3">CaptionMate</h2>
       <div>
         <label htmlFor="url" className="font-bold">
           Video URL
